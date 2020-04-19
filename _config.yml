@@ -3,7 +3,7 @@
 
 title: Share My Cart
 url: "http://www.sharemycart.com"
-baseurl:
+baseurl: "http://www.sharemycart.com"
 google_analytics_key:
 google_maps_javascript_api_key:
 disqus_shortname:
@@ -13,10 +13,10 @@ logo: /siteicon.png
 description: Social shopping
 author:
   name: Oliver Jägle
-  email:
-  twitter: # twitter username without the @ symbol
+  email: sharemycart@beimir.net
+  twitter: ShareMyCartApp# twitter username without the @ symbol
 social:
-  name: Share my cart
+  name: Share My Cart
 
 # -----
 # Build
