@@ -2,11 +2,15 @@
   link: /contact/
   new_window: false
   highlight: false
-- name: Login
-  link: /
+- name: Github
+  link: https://github.com/sharemycart/sharemycart/
+  new_window: false
+  highlight: false
+- name: Zur App (Beta)
+  link: https://beta.sharemycart.com
   new_window: true
   highlight: false
 - name: Registrieren
-  link: /
+  link: https://beta.sharemycart.com/signup
   new_window: true
   highlight: true

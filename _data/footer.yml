@@ -3,7 +3,10 @@
     link: /contact/
 - links:
   - name: Impressum
-    link: /contact/
+    link: /imprint/
+- links:
+  - name: Datenschutz
+    link: /datenschutz/
 - links:
   - name: Twitter
     link: https://twitter.com/cloudcannon/
