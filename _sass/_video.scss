@@ -1,0 +1,10 @@
+.video-container {
+    overflow:hidden;
+}
+
+.video-container iframe, .video-container object, .video-container embed {
+    top:0;
+    left:0;
+    width:560px;
+    height:420px;
+}
