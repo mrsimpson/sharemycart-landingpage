@@ -2,15 +2,15 @@
   link: /contact/
   new_window: false
   highlight: false
+- name: FAQ
+  link: /faq/app/2020/04/20/faq-app/
+  new_window: false
+  highlight: false
 - name: Github
   link: https://github.com/sharemycart/sharemycart/
-  new_window: false
+  new_window: true
   highlight: false
 - name: Zur App (Beta)
   link: https://beta.sharemycart.com
-  new_window: true
-  highlight: false
-- name: Registrieren
-  link: https://beta.sharemycart.com/signup
   new_window: true
   highlight: true
