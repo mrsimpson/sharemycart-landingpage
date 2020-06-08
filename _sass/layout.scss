@@ -55,6 +55,7 @@ header {
 	position: relative;
 }
 
+
 .screenshot{
 	max-height: 650px;
 	max-width: 100%;
@@ -80,7 +81,6 @@ section + section {
 	margin-top: 10px;
 	text-align: center;
 }
-
 
 .cta {
 	margin: 60px 0;
@@ -171,4 +171,24 @@ blockquote:before {
 		}
 	}
 
+}
+
+.image {
+	&::before{
+		content: attr(data-subtitle);
+	}
+}
+
+.tldr {
+	&::before {
+		content: "tl;dr:";
+		font-weight: 800;
+	}
+
+	background-color: #efefef;
+	margin-bottom: 40px;
+	border: 1px dashed;
+	padding: 20px;
+	line-height: 1.5em;
+	font-style: italic;
 }
